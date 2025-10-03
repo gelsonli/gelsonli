@@ -9,8 +9,6 @@
   <a href="https://www.linkedin.com/in/gelson-lli/" target="_blank">LinkedIn</a>
 </p>
 
----
-
 ## 🚀 Sobre mim
 Sou desenvolvedor front-end apaixonado por criar interfaces limpas e funcionais. Gosto de transformar ideias em funcionalidades que as pessoas realmente conseguem usar.
 
@@ -38,6 +36,3 @@ Sou desenvolvedor front-end apaixonado por criar interfaces limpas e funcionais.
   <a href="https://www.linkedin.com/in/gelson-lli/" target="_blank">LinkedIn</a>
 </p>
 
----
-
-> Se quiser, eu adapto esse README com: badges, GIFs, seção de projetos (com links), ou um resumo em português. Quer que eu já inclua os seus projetos principais também?
